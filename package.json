@@ -1,0 +1,22 @@
+{
+  "name": "browserify-adventure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shannonliang312/browserify-adventure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shannonliang312/browserify-adventure/issues"
+  },
+  "homepage": "https://github.com/shannonliang312/browserify-adventure#readme",
+  "dependencies": {
+    "uniq": "^1.0.1"
+  }
+}
